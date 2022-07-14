@@ -45,3 +45,8 @@ function countEvenNumbers(arrayOfNumbers) {
   
 }
 assignment.countEvenNumbers = countEvenNumbers;
+
+// ========================
+// DO NOT EDIT THIS BLOCK
+module.exports = assignment;
+// ========================
